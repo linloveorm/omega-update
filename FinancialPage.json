@@ -1,0 +1,37 @@
+{
+    "ID": “XXXXXXXXXXXX”,
+    "UUID": “XXXXXXX”,
+    "Semester": [“Spring”, “Fall”,”Winter”, “Summer”
+    ],
+    "Academic_year": “2020”,
+    "Due_date": "DD mmm YYYY",
+    "Plan": {
+        {
+            "ID":”XXXX”,
+            "Name":”Semester”,
+            "Detail":“Tuitions, Health insurance, Technology Fee, Transportation 		Fee & Student activity fee”,
+            "Credit": “XX.XX” ,
+		    "Tuition": 000000000.00,
+            "Discount": 0000.00,
+            "Require_fee": 0000.00,
+        },
+        {
+            "ID":”XXXX”,
+            "Name":”Annual”,
+            "Detail":“Tuitions, Health insurance, Technology Fee, Transportation 		Fee & Student activity fee”,
+            "Credit": “XX.XX”, 
+		    "Tuition": 000000000.00,
+            "Discount": 0000.00,
+            "Require_fee": 0000.00,
+        },
+        {
+            "ID":”XXXX”,
+            "Name":”Program”,
+            "Detail":“Tuitions, Health insurance, Technology Fee, Transportation 		Fee & Student activity fee”,
+            "Credit": “XX.XX” ,
+		    "Tuition": 000000000.00,
+            "Discount": 0000.00,
+            "Require_fee": 0000.00,
+        },
+    },
+}
